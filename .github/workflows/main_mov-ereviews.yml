@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Mov-eReviews'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_082C0AFDC9B147D5B9A85831823C406E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63F9AACF1E534935B2AD39BED1DD0F20 }}
           package: .
