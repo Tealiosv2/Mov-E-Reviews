@@ -6,4 +6,4 @@ We hosted this on azure
 
 check out our hosted site :)
 [Mov-E-Reviews](https://icy-rock-093ac3410.3.azurestaticapps.net)
--Tealios
+
